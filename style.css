@@ -1,0 +1,12 @@
+h1 {
+    font-family:"Play", serif; 
+    font-size: 31px;
+    text-transform: uppercase;
+    font-style: italic
+    }
+.play-regular {
+        font-family: "Play", serif;
+        font-weight: 400;
+        font-style: normal;
+    }
+    
